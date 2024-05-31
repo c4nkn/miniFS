@@ -16,8 +16,7 @@ Umm, currently this project isn't fully completed. There might be bugs, errors.
 
 ### Installation
 ```
-sh
-git clone https://github.com/yourusername/miniFS.git
+git clone https://github.com/c4nkn/miniFS.git
 cd miniFS
 make
 ./miniFS
